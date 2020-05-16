@@ -92,7 +92,8 @@ export default class App extends Component {
           reviews={this.state.reviews}
           product={this.state.currentSku}
         />}
-
+        <img src="https://worstbuy.s3.us-east-2.amazonaws.com/footer.png" 
+                className="footerpos" />
       </div>
     );
   }
