@@ -7,8 +7,7 @@
 
 This product displays mock reviews stored in a mySQL AWS-RDS database for mock products also stored in that database. This mimicks the functionality of bestbuy.com reviews section.
 
-![](https://gfycat.com/skeletalbestiberianbarbel)
-
+![Alt Text](https://thumbs.gfycat.com/SkeletalBestIberianbarbel-small.gif)
 ## Installation
 
 OS X & Linux:
@@ -57,19 +56,18 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Kody Maus – [Github](https://github.com/auto-mausx) – kody.a.maus@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[Application Organization](https://github.com/FEC-HRATX-48)
 
-## Contributing
+## Contributors
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+[Tim Black](https://github.com/talltimblack),
+[Cory Harris](https://github.com/CoryLHarris),
+[Kody Maus](https://github.com/auto-mausx),
+[Wilson Tao](https://github.com/wilson-tao)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
