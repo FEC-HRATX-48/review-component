@@ -28,7 +28,7 @@ cd server npm run start:server
 
 Kody Maus – [Github](https://github.com/auto-mausx) – kody.a.maus@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+
 
 [Application Organization](https://github.com/FEC-HRATX-48)
 
