@@ -7,7 +7,7 @@
 
 This product displays mock reviews stored in a mySQL AWS-RDS database for mock products also stored in that database. This mimicks the functionality of bestbuy.com reviews section.
 
-![Alt Text](https://thumbs.gfycat.com/SkeletalBestIberianbarbel-small.gif)
+![Alt Text](https://thumbs.gfycat.com/SkeletalBestIberianbarbel-size_restricted.gif)
 ## Installation
 
 OS X & Linux:
